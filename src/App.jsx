@@ -36,7 +36,7 @@ export default function SVTravels() {
           <img
             src={logo}
             alt="SV Travels Logo"
-            className="h-10 md:h-12 lg:h-14 w-auto object-contain p-1 rounded-md shadow"
+            className="h-10 w-auto object-contain"
           />
           <span className="text-xl font-bold text-gray-800">
             SV Travels
