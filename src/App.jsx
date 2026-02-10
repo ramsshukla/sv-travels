@@ -1,6 +1,6 @@
 import React from 'react';
 import banner from './assets/banner.jpg';
-import logo from "./assets/logo.png"; 
+import logo from "./assets/logo-white-bg.png";
 
 
 export default function SVTravels() {
